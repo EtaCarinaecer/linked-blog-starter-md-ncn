@@ -27,6 +27,7 @@ Ruler: Bee, elected but not mayor
 ## [[Delta 7]] - Riverbend
 The agricultural sector, south of the city, that covers exports of all kinds from near tropical, to the southern edge managing to emulate the crops of a tempered region. Most of the residents live up on the pillars, and travel to work by elevator or gondola. There are close to no buildings on ground level, especially not designated for living in.
 That, except a large villa.
+The eastern side of this area, bordering Delta 6, is known as the Lockdown. Other than the large, very obvious crack in the sky, the government elects not to mention or interact with it at all. Some think that there is an active effort to suppress information on it.
 Ruler: Sky, elected mayor
 ## [[Delta 8]] - Silverpine
 West of the city, it houses further orchards, as well as the Spider Forest. This is the heart of money exchange in Craiul, with the dark of said forest only seeing light in the form of neons from malls and casinos. Pillar Ferris is overgrown with vines, creating an atmospheric ride for anyone rich enough to live in this sector -- of course, up on the support beam and pillar.  Some say the dark keeps the Clergy's gaze away. This region is responsible for the majority of goods trades with the [[Underground]]. There is a regional rivalry in terms of PR with Snowgold.
