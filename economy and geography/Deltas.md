@@ -11,7 +11,7 @@ This is the southeastern bank of Lake Augusta, supervising a majority of the cit
 Ruler: Nikit, elected mayor
 ## [[Delta 3]] - Lakeside
 Southwestern bank of Augusta, this region primarily occupies itself with being the actual food exporter and provider for the city, bordering the majority of its fields, farms, and orchards. The southern edge is where most of clothing is commercialized, the western edge is where woodcraft is handled.
-This region is which [[Augusta]] jurisdictionally belongs to, and it handles matters pertaining to the lake's residents.
+This region is which Augusta jurisdictionally belongs to, and it handles matters pertaining to the lake's residents.
 Ruler: role, name (someone from the lake)
 ## [[Delta 4]] - Heavens' Rest
 Northwestern border to Augusta, this is part of the entertainment sector, with a higher focus on looks, vibes, and shopping malls. It really just serves as a tamer entry point to the Forest.
